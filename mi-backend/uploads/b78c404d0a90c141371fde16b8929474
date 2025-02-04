@@ -1,0 +1,32 @@
+posicion,gen,nucleotido,mutacion,tipo_mutacion,efecto
+1993,Normal,G,No,,
+3622,Normal,G,No,,
+2108,Normal,G,No,,
+3241,Normal,C,No,,
+4615,Normal,G,No,,
+3479,Normal,T,No,,
+4411,Normal,A,No,,
+2411,Normal,A,No,,
+4726,Normal,T,No,,
+3905,Normal,T,No,,
+1595,Normal,A,No,,
+1531,Normal,C,No,,
+2919,Normal,A,No,,
+4123,Normal,A,No,,
+4172,Normal,A,No,,
+9975,TARDBP,C,Sí,Missense,Alteración en proteína
+7392,SOD1,G,Sí,Nonsense,Cambio estructural
+8677,TARDBP,G,Sí,Splice Site,Alteración en proteína
+5709,C9orf72,T,Sí,Frameshift,Alteración en proteína
+6819,C9orf72,A,Sí,Splice Site,Pérdida de función
+7304,C9orf72,C,Sí,Splice Site,Cambio estructural
+9439,TARDBP,C,Sí,Missense,Pérdida de función
+8748,C9orf72,A,Sí,Nonsense,Cambio estructural
+7829,C9orf72,T,Sí,Splice Site,Alteración en proteína
+5751,C9orf72,A,Sí,Nonsense,Cambio estructural
+5962,C9orf72,A,Sí,Nonsense,Pérdida de función
+5054,TARDBP,C,Sí,Nonsense,Pérdida de función
+8029,C9orf72,G,Sí,Missense,Cambio estructural
+7730,TARDBP,T,Sí,Missense,Cambio estructural
+9600,SOD1,T,Sí,Splice Site,Alteración en proteína
+9510,C9orf72,G,Sí,Silent,Alteración en proteína

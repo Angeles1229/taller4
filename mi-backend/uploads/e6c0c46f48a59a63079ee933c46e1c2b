@@ -1,0 +1,77 @@
+posicion,gen,nucleotido,mutacion,tipo_mutacion,efecto
+1,KRAS,G,True,Duplicación,Inactivación del gen
+2,KRAS,A,True,Duplicación,Inactivación del gen
+3,Normal,C,,,
+4,Normal,T,,,
+5,Normal,G,,,
+6,Normal,G,,,
+7,TP53,A,True,Sustitución,Expresión desregulada
+8,KRAS,A,True,Duplicación,Inactivación del gen
+9,TP53,C,True,Deleción,Inactivación del gen
+10,Normal,T,,,
+11,KRAS,G,True,Duplicación,Expresión desregulada
+12,KRAS,T,True,Duplicación,Inactivación del gen
+13,KRAS,C,True,Duplicación,Inactivación del gen
+14,Normal,C,,,
+15,HER2,G,True,Sustitución,Sobreexpresión del oncogén
+16,Normal,T,,,
+17,TP53,C,True,Sustitución,Expresión desregulada
+18,TP53,C,True,Sustitución,Expresión desregulada
+19,Normal,G,,,
+20,Normal,C,,,
+21,RET,G,True,Inserción,Alteración en la transcripción
+22,RET,T,True,Sustitución,Expresión desregulada
+23,Normal,G,,,
+24,Normal,A,,,
+25,HER2,A,True,Deleción,Sobreexpresión del oncogén
+26,EGFR,A,True,Deleción,Expresión desregulada
+27,Normal,C,,,
+28,Normal,A,,,
+29,HER2,C,True,Duplicación,Expresión desregulada
+30,Normal,A,,,
+31,Normal,C,,,
+32,Normal,A,,,
+33,NTRK,C,True,Sustitución,Sobreexpresión del oncogén
+34,Normal,A,,,
+35,Normal,C,,,
+36,Normal,A,,,
+37,Normal,G,,,
+38,Normal,A,,,
+39,BRAF,A,True,Duplicación,Expresión desregulada
+40,Normal,T,,,
+41,Normal,T,,,
+42,MET,G,True,Inserción,Alteración en la transcripción
+43,BRAF,G,True,Sustitución,Inactivación del gen
+44,Normal,G,,,
+45,Normal,G,,,
+46,BRAF,G,True,Sustitución,Inactivación del gen
+47,Normal,C,,,
+48,Normal,C,,,
+49,Normal,A,,,
+50,HER2,G,True,Duplicación,Sobreexpresión del oncogén
+51,Normal,A,,,
+52,Normal,G,,,
+53,Normal,T,,,
+54,Normal,G,,,
+55,Normal,C,,,
+56,HER2,A,True,Sustitución,Expresión desregulada
+57,Normal,A,,,
+58,Normal,C,,,
+59,Normal,G,,,
+60,EGFR,G,True,Duplicación,Expresión desregulada
+61,EGFR,T,True,Deleción,Sobreexpresión del oncogén
+62,Normal,T,,,
+63,Normal,A,,,
+64,Normal,C,,,
+65,Normal,G,,,
+66,Normal,T,,,
+67,Normal,A,,,
+68,Normal,T,,,
+69,HER2,A,True,Deleción,Expresión desregulada
+70,EGFR,A,True,Sustitución,Expresión desregulada
+71,EGFR,T,True,Sustitución,Expresión desregulada
+72,Normal,T,,,
+73,EGFR,A,True,Inserción,Sobreexpresión del oncogén
+74,Normal,C,,,
+75,Normal,G,,,
+171,Normal,G,,,

@@ -1,0 +1,32 @@
+posicion,gen,nucleotido,mutacion,tipo_mutacion,efecto
+1548,Normal,C,No,,
+2015,Normal,T,No,,
+1731,Normal,T,No,,
+1831,Normal,A,No,,
+2286,Normal,A,No,,
+1208,Normal,T,No,,
+1549,Normal,C,No,,
+3912,Normal,C,No,,
+3551,Normal,G,No,,
+1161,Normal,A,No,,
+4794,Normal,C,No,,
+2975,Normal,A,No,,
+3043,Normal,G,No,,
+3836,Normal,C,No,,
+4833,Normal,G,No,,
+6616,DMD,G,Sí,Nonsense,Cambio estructural
+6344,DMD,A,Sí,Splice Site,Cambio estructural
+6775,DMD,G,Sí,Frameshift,Alteración en proteína
+9711,DMD,G,Sí,Silent,Cambio estructural
+8590,DMD,A,Sí,Missense,Cambio estructural
+9843,DMD,A,Sí,Silent,Pérdida de función
+6525,DMD,A,Sí,Frameshift,Alteración en proteína
+9917,DMD,A,Sí,Missense,Pérdida de función
+5110,DMD,C,Sí,Silent,Cambio estructural
+8198,DMD,A,Sí,Splice Site,Pérdida de función
+7710,DMD,A,Sí,Splice Site,Pérdida de función
+8314,DMD,G,Sí,Nonsense,Cambio estructural
+7424,DMD,C,Sí,Silent,Cambio estructural
+6865,DMD,C,Sí,Splice Site,Pérdida de función
+7330,DMD,A,Sí,Splice Site,Cambio estructural
+8302,DMD,C,Sí,Frameshift,Pérdida de función

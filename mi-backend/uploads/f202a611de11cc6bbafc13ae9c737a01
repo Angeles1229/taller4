@@ -1,0 +1,6 @@
+ID_Paciente,Secuencia_ADN,Mutación_Detectada,Tipo_Cáncer
+1,ATCGGACTAGGCTAGTCC,TP53,Cáncer de pulmón
+2,GCTAGCGTTAGGCTAGCG,KRAS,Cáncer de pulmón
+3,TAGGCTAGTCGATGCCGA,EGFR,Cáncer de pulmón
+4,CCGATAGGCTAGTGCTAG,ALK,Cáncer de pulmón
+5,GGCATCGTAGGCTAGCTA,MET,Cáncer de pulmón

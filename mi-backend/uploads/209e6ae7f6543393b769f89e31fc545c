@@ -1,0 +1,76 @@
+posicion,gen,nucleotido,mutacion,tipo_mutacion,efecto
+1008,PIK3CA,A,Sí,Silent,
+1009,TP53,T,No,Silent,
+1010,ALK,G,Sí,Missense,Alteración en proteína
+1011,BRAF,A,Sí,,Cambio estructural
+1012,NRAS,G,No,Missense,Pérdida de función
+1013,PIK3CA,T,Sí,,
+1014,KRAS,C,No,,
+1015,BRAF,G,No,,
+1016,MET,G,No,,Cambio estructural
+1017,MET,G,No,Silent,
+1018,KRAS,A,No,,Pérdida de función
+1019,EGFR,T,Sí,,Pérdida de función
+1020,BRAF,G,No,,Alteración en proteína
+1021,PIK3CA,A,Sí,Frameshift,Cambio estructural
+1022,MET,T,No,Nonsense,
+1023,ALK,C,No,,
+1024,KRAS,C,No,,
+1025,MET,G,Sí,Frameshift,Cambio estructural
+1026,ALK,G,Sí,Missense,Cambio estructural
+1027,ALK,G,No,Splice Site,
+1028,TP53,A,Sí,,
+1029,NRAS,A,Sí,,
+1030,EGFR,G,Sí,,
+1031,BRAF,T,No,,
+1032,TP53,C,Sí,,Pérdida de función
+1033,ALK,C,Sí,Missense,
+1034,PIK3CA,G,Sí,Frameshift,
+1035,ALK,G,Sí,,
+1036,TP53,G,Sí,Splice Site,Alteración en proteína
+1037,KRAS,C,Sí,,Pérdida de función
+1038,ALK,C,Sí,Splice Site,
+1039,KRAS,T,No,Silent,Pérdida de función
+1040,KRAS,C,Sí,Missense,Pérdida de función
+1041,ALK,A,Sí,Splice Site,Pérdida de función
+1042,TP53,A,No,Silent,Alteración en proteína
+1043,ALK,G,Sí,,Pérdida de función
+1044,NRAS,A,No,,Pérdida de función
+1045,NRAS,G,Sí,,
+1046,PIK3CA,C,Sí,Silent,
+1047,MET,T,Sí,Silent,Cambio estructural
+1048,ALK,G,Sí,Splice Site,Cambio estructural
+1049,KRAS,T,No,Missense,Cambio estructural
+1050,NRAS,A,Sí,,Cambio estructural
+1051,EGFR,G,No,Splice Site,Alteración en proteína
+1052,MET,C,No,,
+1053,MET,G,Sí,,
+1054,MET,T,Sí,,
+1055,PIK3CA,T,No,,Cambio estructural
+1056,EGFR,T,Sí,,
+1057,ALK,C,Sí,,
+1058,NRAS,T,Sí,,Pérdida de función
+1059,NRAS,C,Sí,,Alteración en proteína
+1060,PIK3CA,A,Sí,Silent,
+1061,MET,A,No,Silent,
+1062,EGFR,T,No,,
+1063,TP53,T,No,,
+1064,BRAF,T,No,,Alteración en proteína
+1065,PIK3CA,G,No,,
+1066,NRAS,G,No,Splice Site,
+1067,NRAS,C,Sí,,
+1068,PIK3CA,C,Sí,Splice Site,Cambio estructural
+1069,TP53,T,Sí,,
+1070,MET,A,Sí,,Pérdida de función
+1071,NRAS,T,No,Silent,Cambio estructural
+1072,KRAS,T,Sí,Missense,Alteración en proteína
+1073,ALK,A,Sí,,Cambio estructural
+1074,PIK3CA,C,No,Nonsense,
+1075,EGFR,G,Sí,,Cambio estructural
+1076,NRAS,T,No,,Pérdida de función
+1077,ALK,G,No,Splice Site,Alteración en proteína
+1078,EGFR,A,Sí,,Cambio estructural
+1079,TP53,C,Sí,,
+1080,KRAS,A,No,Missense,
+1081,MET,T,Sí,Silent,Pérdida de función
+1082,EGFR,C,Sí,,Cambio estructural

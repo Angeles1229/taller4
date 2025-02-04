@@ -1,0 +1,32 @@
+posicion,gen,nucleotido,mutacion,tipo_mutacion,efecto
+1491,Normal,A,No,,
+4489,Normal,T,No,,
+3863,Normal,T,No,,
+3468,Normal,G,No,,
+4986,Normal,C,No,,
+4879,Normal,C,No,,
+4681,Normal,T,No,,
+1974,Normal,T,No,,
+4602,Normal,C,No,,
+4401,Normal,A,No,,
+2978,Normal,T,No,,
+1962,Normal,G,No,,
+2792,Normal,A,No,,
+1708,Normal,G,No,,
+4133,Normal,T,No,,
+7347,FBN1,C,Sí,Silent,Alteración en proteína
+6043,FBN1,T,Sí,Missense,Cambio estructural
+7166,FBN1,T,Sí,Silent,Cambio estructural
+8475,FBN1,G,Sí,Splice Site,Cambio estructural
+8510,FBN1,G,Sí,Silent,Cambio estructural
+5386,FBN1,T,Sí,Missense,Alteración en proteína
+9840,FBN1,T,Sí,Missense,Alteración en proteína
+6868,FBN1,C,Sí,Frameshift,Pérdida de función
+5874,FBN1,G,Sí,Nonsense,Pérdida de función
+6287,FBN1,T,Sí,Missense,Pérdida de función
+6632,FBN1,A,Sí,Splice Site,Pérdida de función
+6817,FBN1,C,Sí,Nonsense,Alteración en proteína
+8817,FBN1,G,Sí,Silent,Alteración en proteína
+5694,FBN1,T,Sí,Missense,Cambio estructural
+6926,FBN1,G,Sí,Splice Site,Cambio estructural
+8004,FBN1,T,Sí,Missense,Pérdida de función

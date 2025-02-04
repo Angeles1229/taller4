@@ -1,0 +1,32 @@
+posicion,gen,nucleotido,mutacion,tipo_mutacion,efecto
+4013,Normal,C,No,,
+2006,Normal,C,No,,
+4602,Normal,A,No,,
+2469,Normal,C,No,,
+3338,Normal,G,No,,
+4804,Normal,C,No,,
+1366,Normal,A,No,,
+1895,Normal,T,No,,
+2686,Normal,T,No,,
+4546,Normal,C,No,,
+4488,Normal,A,No,,
+4557,Normal,A,No,,
+3960,Normal,A,No,,
+4717,Normal,T,No,,
+4683,Normal,T,No,,
+9596,EGFR,A,Sí,Splice Site,Cambio estructural
+8764,TP53,T,Sí,Splice Site,Alteración en proteína
+7004,KRAS,C,Sí,Splice Site,Cambio estructural
+6167,TP53,A,Sí,Missense,Pérdida de función
+6149,TP53,C,Sí,Silent,Cambio estructural
+7076,EGFR,T,Sí,Frameshift,Pérdida de función
+9777,KRAS,C,Sí,Splice Site,Cambio estructural
+9846,EGFR,G,Sí,Frameshift,Alteración en proteína
+7275,EGFR,T,Sí,Missense,Pérdida de función
+7480,TP53,G,Sí,Splice Site,Cambio estructural
+9734,KRAS,A,Sí,Nonsense,Pérdida de función
+8816,KRAS,G,Sí,Missense,Alteración en proteína
+6408,KRAS,G,Sí,Splice Site,Pérdida de función
+8857,EGFR,C,Sí,Frameshift,Cambio estructural
+6080,TP53,A,Sí,Nonsense,Alteración en proteína
+9922,KRAS,G,Sí,Missense,Cambio estructural

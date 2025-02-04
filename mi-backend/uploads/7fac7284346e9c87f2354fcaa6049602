@@ -1,0 +1,8 @@
+posicion,gen,nucleotido,mutacion,tipo_mutacion,efecto
+1001,BRCA1,A,c.68_69delAG,Deleción,Pérdida de función
+1052,BRCA1,T,c.5266dupC,Duplicación,Proteína truncada
+2103,BRCA2,C,c.181T>G,Sustitución,Cambio de aminoácido
+3201,TP53,G,c.375G>A,Sustitución,Cambio de aminoácido
+4302,BRCA1,A,c.4035delA,Deleción,Pérdida de función
+5601,TP53,T,c.818G>A,Sustitución,Cambio de aminoácido
+6752,BRCA2,C,c.9091C>T,Sustitución,Cambio de aminoácido

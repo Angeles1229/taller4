@@ -1,0 +1,32 @@
+posicion,gen,nucleotido,mutacion,tipo_mutacion,efecto
+1618,Normal,G,No,,
+3159,Normal,G,No,,
+1506,Normal,G,No,,
+2508,Normal,G,No,,
+1398,Normal,C,No,,
+3561,Normal,C,No,,
+3523,Normal,C,No,,
+1992,Normal,T,No,,
+4501,Normal,G,No,,
+3256,Normal,A,No,,
+3903,Normal,C,No,,
+3413,Normal,T,No,,
+4918,Normal,G,No,,
+3223,Normal,G,No,,
+4705,Normal,T,No,,
+9702,FANCG,A,Sí,Nonsense,Alteración en proteína
+7656,FANCG,G,Sí,Silent,Cambio estructural
+9205,FANCC,C,Sí,Splice Site,Cambio estructural
+7876,FANCA,A,Sí,Missense,Pérdida de función
+5509,FANCG,T,Sí,Splice Site,Alteración en proteína
+5655,FANCG,T,Sí,Silent,Alteración en proteína
+6058,FANCC,T,Sí,Nonsense,Cambio estructural
+8612,FANCC,T,Sí,Missense,Pérdida de función
+6419,FANCC,G,Sí,Missense,Pérdida de función
+7900,FANCC,C,Sí,Splice Site,Cambio estructural
+8471,FANCC,T,Sí,Missense,Pérdida de función
+7548,FANCA,C,Sí,Nonsense,Pérdida de función
+8981,FANCA,T,Sí,Missense,Alteración en proteína
+8634,FANCC,A,Sí,Silent,Cambio estructural
+6584,FANCG,T,Sí,Nonsense,Pérdida de función
+6135,FANCC,T,Sí,Nonsense,Pérdida de función

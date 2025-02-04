@@ -1,0 +1,6 @@
+ID_Secuencia,Secuencia_ADN,Mutación,Tipo_Mutación,Gen_Afectado,Efecto
+SEQ001,ATGCGTACGTTAGCCTAGCTAGC,G>A en posición 5,Sustitución,TP53,Pérdida de función
+SEQ002,TGCATGCTAGCTAGCATGCTAGC,C>T en posición 12,Sustitución,EGFR,Activación oncogénica
+SEQ003,ATGCTAGCTAGCTAGCTAGCTAA,Deleción en posición 8,Deleción,ALK,Fusión génica
+SEQ004,CGTACGTAGCTAGCTAGCTAGTT,Inserción T en posición 15,Inserción,ROS1,Fusión génica
+SEQ005,TGCATGCTAGCTAGCTAGCTAGC,KRAS G12C,Sustitución,KRAS,Activación oncogénica

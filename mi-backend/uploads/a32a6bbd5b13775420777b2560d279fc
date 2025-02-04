@@ -1,0 +1,501 @@
+posicion,gen,nucleotido,mutacion,tipo_mutacion,efecto
+1,Normal,G,,,
+2,Normal,A,,,
+3,Normal,C,,,
+4,Normal,T,,,
+5,Normal,G,,,
+6,Normal,G,,,
+7,MET,A,True,Sustitución,Expresión desregulada
+8,KRAS,A,True,Duplicación,Inactivación del gen
+9,TP53,C,True,Deleción,Inactivación del gen
+10,Normal,T,,,
+11,KRAS,G,True,Duplicación,Expresión desregulada
+12,Normal,T,,,
+13,Normal,C,,,
+14,Normal,C,,,
+15,HER2,G,True,Sustitución,Sobreexpresión del oncogén
+16,Normal,T,,,
+17,Normal,C,,,
+18,Normal,C,,,
+19,Normal,G,,,
+20,Normal,C,,,
+21,RET,G,True,Inserción,Alteración en la transcripción
+22,RET,T,True,Sustitución,Expresión desregulada
+23,Normal,G,,,
+24,Normal,A,,,
+25,HER2,A,True,Deleción,Sobreexpresión del oncogén
+26,EGFR,A,True,Deleción,Expresión desregulada
+27,Normal,C,,,
+28,Normal,A,,,
+29,HER2,C,True,Duplicación,Expresión desregulada
+30,Normal,A,,,
+31,Normal,C,,,
+32,Normal,A,,,
+33,NTRK,C,True,Sustitución,Sobreexpresión del oncogén
+34,Normal,A,,,
+35,Normal,C,,,
+36,Normal,A,,,
+37,Normal,G,,,
+38,Normal,A,,,
+39,BRAF,A,True,Duplicación,Expresión desregulada
+40,Normal,T,,,
+41,Normal,T,,,
+42,MET,G,True,Inserción,Alteración en la transcripción
+43,BRAF,G,True,Sustitución,Inactivación del gen
+44,Normal,G,,,
+45,Normal,G,,,
+46,BRAF,G,True,Sustitución,Inactivación del gen
+47,Normal,C,,,
+48,Normal,C,,,
+49,Normal,A,,,
+50,HER2,G,True,Duplicación,Sobreexpresión del oncogén
+51,Normal,A,,,
+52,Normal,G,,,
+53,Normal,T,,,
+54,Normal,G,,,
+55,Normal,C,,,
+56,HER2,A,True,Sustitución,Expresión desregulada
+57,Normal,A,,,
+58,Normal,C,,,
+59,Normal,G,,,
+60,MET,G,True,Duplicación,Expresión desregulada
+61,RET,T,True,Deleción,Sobreexpresión del oncogén
+62,Normal,T,,,
+63,Normal,A,,,
+64,Normal,C,,,
+65,Normal,G,,,
+66,Normal,T,,,
+67,Normal,A,,,
+68,Normal,T,,,
+69,HER2,A,True,Deleción,Expresión desregulada
+70,BRAF,A,True,Sustitución,Expresión desregulada
+71,NTRK,T,True,Sustitución,Expresión desregulada
+72,Normal,T,,,
+73,HER2,A,True,Inserción,Sobreexpresión del oncogén
+74,Normal,C,,,
+75,Normal,G,,,
+76,Normal,G,,,
+77,Normal,G,,,
+78,Normal,A,,,
+79,Normal,T,,,
+80,Normal,A,,,
+81,Normal,T,,,
+82,Normal,C,,,
+83,ALK,A,True,Deleción,Sobreexpresión del oncogén
+84,Normal,A,,,
+85,Normal,G,,,
+86,MET,C,True,Inserción,Inactivación del gen
+87,EGFR,C,True,Inserción,Sobreexpresión del oncogén
+88,RET,G,True,Inserción,Inactivación del gen
+89,Normal,C,,,
+90,KRAS,T,True,Duplicación,Alteración en la transcripción
+91,TP53,C,True,Inserción,Sobreexpresión del oncogén
+92,Normal,A,,,
+93,ALK,C,True,Deleción,Sobreexpresión del oncogén
+94,EGFR,A,True,Sustitución,Sobreexpresión del oncogén
+95,Normal,C,,,
+96,Normal,T,,,
+97,Normal,A,,,
+98,Normal,A,,,
+99,Normal,C,,,
+100,Normal,A,,,
+101,RET,G,True,Deleción,Sobreexpresión del oncogén
+102,NTRK,A,True,Deleción,Sobreexpresión del oncogén
+103,Normal,A,,,
+104,Normal,C,,,
+105,KRAS,A,True,Deleción,Inactivación del gen
+106,Normal,T,,,
+107,Normal,A,,,
+108,NTRK,A,True,Deleción,Sobreexpresión del oncogén
+109,Normal,G,,,
+110,Normal,C,,,
+111,Normal,C,,,
+112,EGFR,A,True,Duplicación,Sobreexpresión del oncogén
+113,Normal,C,,,
+114,Normal,C,,,
+115,BRAF,C,True,Sustitución,Alteración en la transcripción
+116,Normal,G,,,
+117,Normal,T,,,
+118,Normal,C,,,
+119,EGFR,T,True,Sustitución,Sobreexpresión del oncogén
+120,Normal,G,,,
+121,Normal,C,,,
+122,Normal,T,,,
+123,HER2,C,True,Duplicación,Alteración en la transcripción
+124,Normal,T,,,
+125,NTRK,G,True,Sustitución,Alteración en la transcripción
+126,Normal,C,,,
+127,Normal,C,,,
+128,Normal,C,,,
+129,ROS1,C,True,Deleción,Inactivación del gen
+130,Normal,T,,,
+131,Normal,G,,,
+132,Normal,C,,,
+133,Normal,A,,,
+134,Normal,G,,,
+135,ROS1,A,True,Deleción,Expresión desregulada
+136,BRAF,T,True,Sustitución,Sobreexpresión del oncogén
+137,NTRK,T,True,Inserción,Inactivación del gen
+138,BRAF,T,True,Duplicación,Sobreexpresión del oncogén
+139,BRAF,G,True,Inserción,Inactivación del gen
+140,Normal,C,,,
+141,Normal,C,,,
+142,TP53,C,True,Inserción,Alteración en la transcripción
+143,Normal,C,,,
+144,Normal,C,,,
+145,Normal,T,,,
+146,Normal,A,,,
+147,EGFR,C,True,Duplicación,Inactivación del gen
+148,TP53,A,True,Duplicación,Expresión desregulada
+149,Normal,A,,,
+150,Normal,C,,,
+151,Normal,T,,,
+152,Normal,G,,,
+153,Normal,A,,,
+154,Normal,C,,,
+155,ROS1,A,True,Sustitución,Expresión desregulada
+156,Normal,A,,,
+157,MET,T,True,Sustitución,Sobreexpresión del oncogén
+158,Normal,A,,,
+159,Normal,C,,,
+160,KRAS,T,True,Inserción,Sobreexpresión del oncogén
+161,Normal,G,,,
+162,Normal,T,,,
+163,Normal,T,,,
+164,EGFR,C,True,Inserción,Alteración en la transcripción
+165,Normal,T,,,
+166,ROS1,C,True,Inserción,Inactivación del gen
+167,Normal,T,,,
+168,Normal,T,,,
+169,Normal,A,,,
+170,ALK,A,True,Sustitución,Alteración en la transcripción
+171,Normal,G,,,
+172,Normal,C,,,
+173,Normal,T,,,
+174,Normal,G,,,
+175,Normal,A,,,
+176,MET,C,True,Duplicación,Expresión desregulada
+177,Normal,A,,,
+178,EGFR,C,True,Deleción,Alteración en la transcripción
+179,ALK,C,True,Deleción,Sobreexpresión del oncogén
+180,Normal,G,,,
+181,EGFR,C,True,Sustitución,Inactivación del gen
+182,Normal,G,,,
+183,Normal,G,,,
+184,Normal,G,,,
+185,Normal,T,,,
+186,Normal,T,,,
+187,TP53,C,True,Sustitución,Expresión desregulada
+188,Normal,C,,,
+189,Normal,A,,,
+190,HER2,G,True,Inserción,Alteración en la transcripción
+191,Normal,T,,,
+192,BRAF,A,True,Inserción,Expresión desregulada
+193,MET,C,True,Inserción,Alteración en la transcripción
+194,Normal,C,,,
+195,HER2,A,True,Sustitución,Sobreexpresión del oncogén
+196,Normal,A,,,
+197,Normal,A,,,
+198,Normal,T,,,
+199,Normal,T,,,
+200,Normal,T,,,
+201,NTRK,T,True,Duplicación,Sobreexpresión del oncogén
+202,Normal,A,,,
+203,Normal,C,,,
+204,Normal,C,,,
+205,Normal,C,,,
+206,Normal,G,,,
+207,Normal,T,,,
+208,Normal,T,,,
+209,Normal,C,,,
+210,Normal,T,,,
+211,Normal,G,,,
+212,RET,C,True,Inserción,Sobreexpresión del oncogén
+213,Normal,A,,,
+214,RET,A,True,Duplicación,Alteración en la transcripción
+215,Normal,T,,,
+216,Normal,C,,,
+217,Normal,C,,,
+218,Normal,T,,,
+219,Normal,G,,,
+220,Normal,C,,,
+221,Normal,G,,,
+222,MET,C,True,Deleción,Expresión desregulada
+223,KRAS,A,True,Deleción,Sobreexpresión del oncogén
+224,KRAS,C,True,Sustitución,Sobreexpresión del oncogén
+225,Normal,A,,,
+226,Normal,C,,,
+227,Normal,G,,,
+228,Normal,G,,,
+229,Normal,C,,,
+230,Normal,T,,,
+231,Normal,T,,,
+232,Normal,C,,,
+233,Normal,A,,,
+234,ROS1,C,True,Sustitución,Alteración en la transcripción
+235,TP53,T,True,Deleción,Sobreexpresión del oncogén
+236,TP53,C,True,Deleción,Expresión desregulada
+237,TP53,A,True,Duplicación,Expresión desregulada
+238,KRAS,G,True,Inserción,Alteración en la transcripción
+239,Normal,A,,,
+240,Normal,G,,,
+241,KRAS,G,True,Duplicación,Sobreexpresión del oncogén
+242,ROS1,T,True,Sustitución,Inactivación del gen
+243,Normal,G,,,
+244,RET,G,True,Duplicación,Inactivación del gen
+245,TP53,G,True,Deleción,Inactivación del gen
+246,ROS1,A,True,Sustitución,Alteración en la transcripción
+247,NTRK,A,True,Deleción,Alteración en la transcripción
+248,Normal,A,,,
+249,BRAF,C,True,Deleción,Expresión desregulada
+250,Normal,G,,,
+251,Normal,A,,,
+252,BRAF,G,True,Sustitución,Alteración en la transcripción
+253,RET,G,True,Deleción,Inactivación del gen
+254,Normal,G,,,
+255,TP53,A,True,Sustitución,Expresión desregulada
+256,RET,T,True,Deleción,Alteración en la transcripción
+257,Normal,T,,,
+258,Normal,T,,,
+259,EGFR,G,True,Sustitución,Sobreexpresión del oncogén
+260,Normal,T,,,
+261,Normal,G,,,
+262,ROS1,G,True,Duplicación,Expresión desregulada
+263,Normal,A,,,
+264,Normal,C,,,
+265,KRAS,C,True,Deleción,Alteración en la transcripción
+266,Normal,G,,,
+267,Normal,A,,,
+268,Normal,T,,,
+269,Normal,C,,,
+270,Normal,C,,,
+271,MET,T,True,Inserción,Inactivación del gen
+272,Normal,G,,,
+273,Normal,C,,,
+274,Normal,A,,,
+275,Normal,C,,,
+276,Normal,G,,,
+277,Normal,G,,,
+278,TP53,C,True,Sustitución,Inactivación del gen
+279,Normal,T,,,
+280,KRAS,A,True,Deleción,Sobreexpresión del oncogén
+281,Normal,A,,,
+282,Normal,G,,,
+283,Normal,A,,,
+284,Normal,C,,,
+285,Normal,T,,,
+286,Normal,C,,,
+287,Normal,C,,,
+288,Normal,C,,,
+289,Normal,T,,,
+290,Normal,T,,,
+291,Normal,C,,,
+292,NTRK,G,True,Deleción,Sobreexpresión del oncogén
+293,Normal,A,,,
+294,Normal,G,,,
+295,Normal,C,,,
+296,Normal,T,,,
+297,Normal,G,,,
+298,Normal,C,,,
+299,Normal,A,,,
+300,Normal,G,,,
+301,ROS1,A,True,Inserción,Alteración en la transcripción
+302,Normal,A,,,
+303,Normal,C,,,
+304,Normal,G,,,
+305,ROS1,G,True,Sustitución,Alteración en la transcripción
+306,Normal,T,,,
+307,Normal,C,,,
+308,Normal,A,,,
+309,Normal,C,,,
+310,EGFR,T,True,Sustitución,Sobreexpresión del oncogén
+311,Normal,A,,,
+312,EGFR,G,True,Sustitución,Inactivación del gen
+313,Normal,G,,,
+314,HER2,C,True,Inserción,Alteración en la transcripción
+315,Normal,G,,,
+316,Normal,C,,,
+317,Normal,A,,,
+318,BRAF,G,True,Deleción,Alteración en la transcripción
+319,Normal,G,,,
+320,ALK,A,True,Deleción,Inactivación del gen
+321,Normal,T,,,
+322,Normal,G,,,
+323,MET,T,True,Duplicación,Sobreexpresión del oncogén
+324,TP53,G,True,Sustitución,Expresión desregulada
+325,Normal,G,,,
+326,TP53,C,True,Deleción,Inactivación del gen
+327,Normal,G,,,
+328,Normal,G,,,
+329,Normal,A,,,
+330,BRAF,G,True,Duplicación,Alteración en la transcripción
+331,ROS1,T,True,Inserción,Alteración en la transcripción
+332,Normal,C,,,
+333,EGFR,T,True,Sustitución,Alteración en la transcripción
+334,MET,C,True,Sustitución,Alteración en la transcripción
+335,Normal,G,,,
+336,BRAF,G,True,Deleción,Inactivación del gen
+337,Normal,C,,,
+338,Normal,G,,,
+339,RET,A,True,Deleción,Sobreexpresión del oncogén
+340,Normal,A,,,
+341,Normal,G,,,
+342,Normal,C,,,
+343,Normal,G,,,
+344,Normal,A,,,
+345,Normal,A,,,
+346,ALK,A,True,Sustitución,Inactivación del gen
+347,Normal,C,,,
+348,Normal,A,,,
+349,Normal,T,,,
+350,Normal,A,,,
+351,Normal,T,,,
+352,Normal,T,,,
+353,BRAF,A,True,Deleción,Expresión desregulada
+354,Normal,A,,,
+355,Normal,C,,,
+356,RET,A,True,Sustitución,Expresión desregulada
+357,Normal,T,,,
+358,HER2,G,True,Inserción,Sobreexpresión del oncogén
+359,Normal,T,,,
+360,Normal,G,,,
+361,EGFR,T,True,Deleción,Sobreexpresión del oncogén
+362,HER2,C,True,Sustitución,Alteración en la transcripción
+363,Normal,G,,,
+364,Normal,A,,,
+365,MET,A,True,Sustitución,Expresión desregulada
+366,Normal,A,,,
+367,Normal,A,,,
+368,NTRK,G,True,Duplicación,Alteración en la transcripción
+369,Normal,T,,,
+370,Normal,T,,,
+371,Normal,T,,,
+372,Normal,G,,,
+373,MET,T,True,Duplicación,Inactivación del gen
+374,NTRK,A,True,Duplicación,Inactivación del gen
+375,BRAF,T,True,Sustitución,Alteración en la transcripción
+376,EGFR,C,True,Duplicación,Alteración en la transcripción
+377,Normal,C,,,
+378,Normal,C,,,
+379,Normal,G,,,
+380,Normal,T,,,
+381,BRAF,A,True,Deleción,Sobreexpresión del oncogén
+382,Normal,G,,,
+383,RET,C,True,Deleción,Alteración en la transcripción
+384,TP53,G,True,Deleción,Expresión desregulada
+385,Normal,A,,,
+386,RET,A,True,Duplicación,Sobreexpresión del oncogén
+387,BRAF,T,True,Inserción,Expresión desregulada
+388,Normal,T,,,
+389,Normal,T,,,
+390,Normal,G,,,
+391,Normal,T,,,
+392,KRAS,G,True,Inserción,Expresión desregulada
+393,NTRK,G,True,Deleción,Expresión desregulada
+394,Normal,G,,,
+395,ALK,A,True,Sustitución,Inactivación del gen
+396,MET,A,True,Deleción,Alteración en la transcripción
+397,Normal,G,,,
+398,Normal,G,,,
+399,Normal,T,,,
+400,KRAS,G,True,Duplicación,Sobreexpresión del oncogén
+401,TP53,T,True,Sustitución,Inactivación del gen
+402,Normal,A,,,
+403,RET,A,True,Duplicación,Inactivación del gen
+404,Normal,G,,,
+405,Normal,T,,,
+406,NTRK,G,True,Duplicación,Sobreexpresión del oncogén
+407,Normal,A,,,
+408,Normal,T,,,
+409,Normal,C,,,
+410,KRAS,G,True,Deleción,Alteración en la transcripción
+411,ROS1,T,True,Inserción,Expresión desregulada
+412,Normal,T,,,
+413,Normal,A,,,
+414,RET,A,True,Sustitución,Inactivación del gen
+415,Normal,A,,,
+416,Normal,A,,,
+417,Normal,G,,,
+418,Normal,A,,,
+419,TP53,G,True,Inserción,Inactivación del gen
+420,Normal,G,,,
+421,Normal,A,,,
+422,Normal,A,,,
+423,Normal,A,,,
+424,Normal,T,,,
+425,Normal,C,,,
+426,Normal,T,,,
+427,RET,G,True,Duplicación,Sobreexpresión del oncogén
+428,Normal,C,,,
+429,Normal,C,,,
+430,Normal,A,,,
+431,BRAF,G,True,Inserción,Sobreexpresión del oncogén
+432,Normal,T,,,
+433,Normal,T,,,
+434,Normal,A,,,
+435,Normal,C,,,
+436,Normal,C,,,
+437,HER2,C,True,Duplicación,Inactivación del gen
+438,Normal,T,,,
+439,BRAF,T,True,Inserción,Sobreexpresión del oncogén
+440,Normal,T,,,
+441,KRAS,C,True,Inserción,Inactivación del gen
+442,Normal,C,,,
+443,ALK,T,True,Inserción,Alteración en la transcripción
+444,ALK,A,True,Inserción,Expresión desregulada
+445,Normal,G,,,
+446,Normal,A,,,
+447,Normal,G,,,
+448,Normal,A,,,
+449,Normal,C,,,
+450,Normal,A,,,
+451,Normal,T,,,
+452,Normal,C,,,
+453,Normal,A,,,
+454,Normal,A,,,
+455,Normal,G,,,
+456,Normal,C,,,
+457,Normal,A,,,
+458,Normal,C,,,
+459,Normal,A,,,
+460,TP53,G,True,Inserción,Alteración en la transcripción
+461,Normal,A,,,
+462,Normal,G,,,
+463,Normal,A,,,
+464,NTRK,C,True,Inserción,Sobreexpresión del oncogén
+465,Normal,A,,,
+466,NTRK,C,True,Inserción,Sobreexpresión del oncogén
+467,Normal,G,,,
+468,Normal,C,,,
+469,RET,C,True,Inserción,Inactivación del gen
+470,Normal,C,,,
+471,RET,C,True,Inserción,Alteración en la transcripción
+472,Normal,G,,,
+473,KRAS,A,True,Sustitución,Inactivación del gen
+474,Normal,C,,,
+475,NTRK,A,True,Deleción,Alteración en la transcripción
+476,TP53,T,True,Sustitución,Expresión desregulada
+477,Normal,G,,,
+478,KRAS,G,True,Inserción,Alteración en la transcripción
+479,Normal,T,,,
+480,ALK,G,True,Inserción,Expresión desregulada
+481,Normal,G,,,
+482,Normal,T,,,
+483,Normal,T,,,
+484,Normal,C,,,
+485,Normal,G,,,
+486,MET,C,True,Sustitución,Inactivación del gen
+487,HER2,A,True,Inserción,Expresión desregulada
+488,Normal,G,,,
+489,Normal,G,,,
+490,Normal,T,,,
+491,Normal,A,,,
+492,Normal,T,,,
+493,Normal,C,,,
+494,Normal,C,,,
+495,EGFR,T,True,Inserción,Sobreexpresión del oncogén
+496,Normal,G,,,
+497,ROS1,G,True,Duplicación,Sobreexpresión del oncogén
+498,RET,G,True,Duplicación,Inactivación del gen
+499,TP53,T,True,Sustitución,Inactivación del gen
+500,Normal,C,,,

@@ -1,0 +1,32 @@
+posicion,gen,nucleotido,mutacion,tipo_mutacion,efecto
+3735,Normal,C,No,,
+1294,Normal,T,No,,
+4456,Normal,A,No,,
+3458,Normal,A,No,,
+2434,Normal,C,No,,
+4688,Normal,C,No,,
+4467,Normal,T,No,,
+4640,Normal,G,No,,
+4808,Normal,G,No,,
+3213,Normal,T,No,,
+4643,Normal,C,No,,
+4604,Normal,C,No,,
+3237,Normal,A,No,,
+1206,Normal,C,No,,
+4085,Normal,T,No,,
+7466,G542X,T,Sí,Splice Site,Cambio estructural
+8849,CFTR,C,Sí,Silent,Alteración en proteína
+7877,G542X,A,Sí,Splice Site,Cambio estructural
+5221,CFTR,T,Sí,Nonsense,Cambio estructural
+5156,G542X,G,Sí,Frameshift,Alteración en proteína
+7879,CFTR,T,Sí,Silent,Cambio estructural
+5390,G542X,T,Sí,Nonsense,Cambio estructural
+5082,CFTR,G,Sí,Silent,Cambio estructural
+5501,CFTR,G,Sí,Nonsense,Alteración en proteína
+5185,CFTR,G,Sí,Nonsense,Cambio estructural
+7159,G542X,C,Sí,Silent,Alteración en proteína
+5864,CFTR,T,Sí,Missense,Alteración en proteína
+7084,G542X,C,Sí,Nonsense,Alteración en proteína
+9231,G542X,G,Sí,Missense,Cambio estructural
+6449,CFTR,T,Sí,Nonsense,Cambio estructural
+6284,CFTR,A,Sí,Frameshift,Alteración en proteína

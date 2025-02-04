@@ -1,0 +1,32 @@
+posicion,gen,nucleotido,mutacion,tipo_mutacion,efecto
+917,Normal,G,,,
+918,Normal,C,,,
+919,Normal,G,,,
+920,Normal,G,,,
+921,Normal,T,,,
+922,Normal,C,,,
+923,Normal,A,,,
+924,Normal,G,,,
+925,Normal,C,,,
+926,Normal,C,,,
+928,Normal,G,,,
+929,Normal,C,,,
+930,Normal,A,,,
+931,Normal,C,,,
+932,Normal,C,,,
+933,Normal,G,,,
+934,Normal,G,,,
+935,Normal,C,,,
+937,Normal,A,,,
+938,Normal,G,,,
+939,Normal,A,,,
+943,Normal,A,,,
+951,Normal,A,,,
+952,Normal,A,,,
+1001,BRCA1,A,c.68_69delAG,Deleción,Pérdida de función
+1052,BRCA1,T,c.5266dupC,Duplicación,Proteína truncada
+2103,BRCA2,C,c.181T>G,Sustitución,Cambio de aminoácido
+3201,CHEK2,G,c.375G>A,Sustitución,Cambio de aminoácido
+4302,BRCA1,A,c.4035delA,Deleción,Pérdida de función
+5601,CHEK2,T,c.818G>A,Sustitución,Cambio de aminoácido
+6752,BRCA2,C,c.9091C>T,Sustitución,Cambio de aminoácido

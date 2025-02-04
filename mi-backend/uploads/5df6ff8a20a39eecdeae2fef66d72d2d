@@ -1,0 +1,32 @@
+posicion,gen,nucleotido,mutacion,tipo_mutacion,efecto
+2114,Normal,G,No,,
+2608,Normal,A,No,,
+4086,Normal,T,No,,
+1331,Normal,C,No,,
+1415,Normal,T,No,,
+2273,Normal,A,No,,
+4137,Normal,A,No,,
+1516,Normal,T,No,,
+1721,Normal,C,No,,
+4866,Normal,C,No,,
+4698,Normal,T,No,,
+4040,Normal,C,No,,
+3594,Normal,A,No,,
+4327,Normal,C,No,,
+2868,Normal,A,No,,
+9195,PMS2,A,Sí,Missense,Alteración en proteína
+9921,APC,T,Sí,Missense,Alteración en proteína
+7000,PIK3CA,G,Sí,Frameshift,Cambio estructural
+8707,PMS2,A,Sí,Frameshift,Pérdida de función
+7392,PIK3CA,A,Sí,Missense,Alteración en proteína
+5627,PIK3CA,C,Sí,Missense,Alteración en proteína
+7150,APC,C,Sí,Splice Site,Alteración en proteína
+5657,PIK3CA,C,Sí,Splice Site,Alteración en proteína
+8158,PIK3CA,T,Sí,Silent,Cambio estructural
+6188,PMS2,G,Sí,Silent,Pérdida de función
+9672,PIK3CA,T,Sí,Frameshift,Pérdida de función
+8668,APC,A,Sí,Frameshift,Cambio estructural
+5346,PIK3CA,T,Sí,Frameshift,Alteración en proteína
+8032,APC,C,Sí,Frameshift,Alteración en proteína
+6051,PMS2,T,Sí,Splice Site,Cambio estructural
+6450,PIK3CA,T,Sí,Silent,Cambio estructural
