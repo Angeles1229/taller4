@@ -1,6 +1,6 @@
 import { Router } from "express";
 import {
-    getPaciente,  // 🔹 Importamos la función getPaciente
+    getPaciente,  
     getPacientes,
     createPaciente,
     updatePaciente,
@@ -9,11 +9,11 @@ import {
 
 const router = Router();
 
-// 🔹 Rutas de Pacientes
-router.get("/", getPacientes); // Obtener todos los pacientes
-router.get("/:id", getPaciente); // 🔹 Obtener un paciente por su ID (corregido ✅)
-router.post("/", createPaciente); // Crear un paciente
-router.put("/:id", updatePaciente); // Actualizar paciente
-router.delete("/:id", deletePaciente); // Eliminar paciente
+
+router.get("/", getPacientes); 
+router.get("/:id", getPaciente); 
+router.post("/", createPaciente); 
+router.put("/:id", updatePaciente); 
+router.delete("/:id", deletePaciente); 
 
 export default router;

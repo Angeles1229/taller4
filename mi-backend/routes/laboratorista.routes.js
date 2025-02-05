@@ -6,7 +6,6 @@ import { SECRET_KEY } from "../config.js";
 
 const router = express.Router();
 
-// 🔹 Registro de laboratoristas
 router.post("/register", async (req, res) => {
   console.log("🔍 Datos recibidos en /register:", req.body);
 
@@ -31,7 +30,7 @@ router.post("/register", async (req, res) => {
       telefono,
     });
 
-    // ✅ Generar token después del registro
+    
     const token = jwt.sign(
       { id: newLaboratorista.id, email: newLaboratorista.email },
       SECRET_KEY,
@@ -40,7 +39,7 @@ router.post("/register", async (req, res) => {
 
     res.status(201).json({
       message: "Laboratorista registrado con éxito",
-      token, // ✅ Enviar token
+      token, 
       laboratorista: {
         id: newLaboratorista.id,
         nombre: newLaboratorista.nombre,
@@ -65,7 +64,7 @@ router.post("/login", async (req, res) => {
   }
 
   try {
-    // Buscar el laboratorista por email
+   
     const laboratorista = await LaboratoristaModel.findOne({ where: { email } });
 
     if (!laboratorista) {
@@ -78,7 +77,7 @@ router.post("/login", async (req, res) => {
       return res.status(401).json({ message: "Contraseña incorrecta" });
     }
 
-    // ✅ Generar token JWT con `laboratorista_id`
+   
     const token = jwt.sign(
       { id: laboratorista.id, email: laboratorista.email },
       SECRET_KEY,
@@ -87,8 +86,8 @@ router.post("/login", async (req, res) => {
 
     res.status(200).json({ 
       message: "Inicio de sesión exitoso", 
-      token, // ✅ Enviar token
-      id: laboratorista.id, // ✅ Enviar laboratorista_id
+      token, 
+      id: laboratorista.id, 
     });
   } catch (error) {
     console.error("Error al iniciar sesión:", error);
@@ -99,26 +98,26 @@ router.post("/login", async (req, res) => {
 router.get("/perfil", async (req, res) => {
   try {
     const token = req.headers.authorization?.split(" ")[1];
-    console.log("🔍 Token recibido en /perfil:", token);
+    console.log(" Token recibido en /perfil:", token);
 
     if (!token) return res.status(401).json({ message: "No autorizado" });
 
     const decoded = jwt.verify(token, SECRET_KEY);
-    console.log("✅ Token decodificado:", decoded);
+    console.log("Token decodificado:", decoded);
 
     const laboratorista = await LaboratoristaModel.findByPk(decoded.id, {
       attributes: ["nombre", "apellido"]
     });
 
     if (!laboratorista) {
-      console.log("❌ No se encontró el laboratorista con ID:", decoded.id);
+      console.log(" No se encontró el laboratorista con ID:", decoded.id);
       return res.status(404).json({ message: "Usuario no encontrado" });
     }
 
-    console.log("✅ Perfil encontrado:", laboratorista);
+    console.log(" Perfil encontrado:", laboratorista);
     res.json({ nombre: laboratorista.nombre, apellido: laboratorista.apellido });
   } catch (error) {
-    console.error("❌ Error en /perfil:", error);
+    console.error("Error en /perfil:", error);
     res.status(500).json({ message: "Error al obtener el perfil" });
   }
 });

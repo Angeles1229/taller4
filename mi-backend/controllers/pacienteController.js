@@ -1,6 +1,6 @@
 import { PacienteModel, LaboratoristaModel } from "../models/ADNModels.js";
 
-// 🔹 Obtener pacientes del laboratorista autenticado
+
 export const getPacientes = async (req, res) => {
   try {
     console.log("📥 Headers recibidos en getPacientes:", req.headers);
@@ -25,8 +25,7 @@ export const getPacientes = async (req, res) => {
 };
 
 
-// 🔹 Obtener un paciente por ID (validando que pertenezca al laboratorista)
-// 🔹 Obtener un paciente por ID con validación extra
+
 export const getPaciente = async (req, res) => {
   const { id } = req.params;
   const laboratoristaID = parseInt(req.headers["laboratorista_id"]); 
@@ -56,7 +55,7 @@ export const getPaciente = async (req, res) => {
   }
 };
 
-// 🔹 Crear un nuevo paciente asegurando que pertenece al laboratorista autenticado
+
 export const createPaciente = async (req, res) => {
   try {
     console.log("📩 Datos recibidos en createPaciente:", req.body);
@@ -95,7 +94,7 @@ export const createPaciente = async (req, res) => {
 };
 
 
-// 🔹 Actualizar un paciente (solo si pertenece al laboratorista autenticado)
+
 export const updatePaciente = async (req, res) => {
   try {
       const { id } = req.params;
@@ -125,7 +124,7 @@ export const updatePaciente = async (req, res) => {
 };
 
 
-// 🔹 Eliminar un paciente (solo si pertenece al laboratorista autenticado)
+
 export const deletePaciente = async (req, res) => {
   const { id } = req.params;
   const laboratoristaID = parseInt(req.headers["laboratorista_id"]); 

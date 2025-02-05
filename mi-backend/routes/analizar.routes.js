@@ -4,10 +4,10 @@ import { AnalisisADNModel } from "../models/ADNModels.js";
 
 const router = express.Router();
 
-// Ruta para subir y analizar un archivo de ADN
+
 router.post("/subir-adn", upload.single("archivo"), analizarADN);
 
-// Ruta para obtener los análisis de ADN almacenados
+
 router.get("/analisis", async (req, res) => {
   try {
     console.log("Obteniendo análisis de ADN...");
